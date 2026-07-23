@@ -1,1 +1,2 @@
-nacos/nacos-operator
+maven:3.8.6-openjdk-8
+eclipse-temurin:8-jre
