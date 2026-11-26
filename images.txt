@@ -1,1 +1,2 @@
-docker.elastic.co/kibana/kibana:8.19.25
+ghcr.io/kafbat/kafka-ui
+efak-ai:5.1.0
