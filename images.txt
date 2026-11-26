@@ -1,4 +1,3 @@
-ghcr.io/kafbat/kafka-ui
 efak-ai:5.1.0
 mysql:8.0
 redis:7-alpine
