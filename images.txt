@@ -1,2 +1,7 @@
 ghcr.io/kafbat/kafka-ui
 efak-ai:5.1.0
+mysql:8.0
+redis:7-alpine
+nginx:1.27-alpine
+openjdk:17-jdk-slim
+maven:3.9-eclipse-temurin-17
